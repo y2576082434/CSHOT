@@ -5,4 +5,6 @@
 # print(torch.backends.cudnn.version())
 
 import paddle
+a = 1
+b = a + 1
 print(paddle.utils.run_check())
